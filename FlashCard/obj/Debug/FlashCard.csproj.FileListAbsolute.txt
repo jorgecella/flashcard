@@ -1,0 +1,16 @@
+C:\Users\jorgec\Source\Repos\flashcard\FlashCard\bin\Debug\FlashCard.exe.config
+C:\Users\jorgec\Source\Repos\flashcard\FlashCard\bin\Debug\FlashCard.exe
+C:\Users\jorgec\Source\Repos\flashcard\FlashCard\bin\Debug\FlashCard.pdb
+C:\Users\jorgec\Source\Repos\flashcard\FlashCard\obj\Debug\FlashCard.csprojAssemblyReference.cache
+C:\Users\jorgec\Source\Repos\flashcard\FlashCard\obj\Debug\MainWindow.g.cs
+C:\Users\jorgec\Source\Repos\flashcard\FlashCard\obj\Debug\App.g.cs
+C:\Users\jorgec\Source\Repos\flashcard\FlashCard\obj\Debug\FlashCard_MarkupCompile.cache
+C:\Users\jorgec\Source\Repos\flashcard\FlashCard\obj\Debug\FlashCard_MarkupCompile.lref
+C:\Users\jorgec\Source\Repos\flashcard\FlashCard\obj\Debug\MainWindow.baml
+C:\Users\jorgec\Source\Repos\flashcard\FlashCard\obj\Debug\FlashCard.g.resources
+C:\Users\jorgec\Source\Repos\flashcard\FlashCard\obj\Debug\FlashCard.Properties.Resources.resources
+C:\Users\jorgec\Source\Repos\flashcard\FlashCard\obj\Debug\FlashCard.csproj.GenerateResource.cache
+C:\Users\jorgec\Source\Repos\flashcard\FlashCard\obj\Debug\FlashCard.csproj.CoreCompileInputs.cache
+C:\Users\jorgec\Source\Repos\flashcard\FlashCard\obj\Debug\FlashCard.exe
+C:\Users\jorgec\Source\Repos\flashcard\FlashCard\obj\Debug\FlashCard.pdb
+C:\Users\jorgec\Source\Repos\flashcard\FlashCard\obj\Debug\FlashCard.csproj.ResolveComReference.cache
